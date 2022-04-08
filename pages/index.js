@@ -11,9 +11,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
     
     <p> welkom op mijn website! Leuk dat je er bent! Check je ook eens mijn andere websites? 
     <h2>Een eigen website maken is helamaal niet moeilijk. Wij hebben het hier gratis gedaan via Wix. Via deze makkelijke tool kun je gemakkelijk een website in elkaar flansen.</h2>
